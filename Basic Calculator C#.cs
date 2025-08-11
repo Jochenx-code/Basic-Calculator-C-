@@ -31,13 +31,7 @@ namespace Basic_Calculator
                 break;
 			}
 			
-			Console.ReadKey();
-			          
-			
-			
-			
-			
-	
 		}
 	}
+
 }
